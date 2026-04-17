@@ -37,7 +37,6 @@ The ALU performs arithmetic, logical, and shift operations based on the opcode i
 The design is verified using a testbench in ModelSim by applying different opcodes and inputs.
 
 ## Output Waveform
-
-
+![waveform](Screenshot 2026-04-17 164925.png)
 ## Author
 Ajai
